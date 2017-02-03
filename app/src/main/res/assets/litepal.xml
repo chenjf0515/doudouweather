@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <litepal>
-    <dbname value="doudoui_weather" />
-
-    <version value="1"/>
+    <dbname value="doudou_weather" />
+    <version value="1" />
     <list>
-        <mapping class="com.doudouweather.android.db.Province"/>
+        <mapping class="com.doudouweather.android.db.Province" />
         <mapping class="com.doudouweather.android.db.City" />
         <mapping class="com.doudouweather.android.db.County" />
     </list>
